@@ -1,0 +1,41 @@
+h1 {
+    color: #000000;
+    font-size: 48px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+}
+
+.table .divwhite {
+    width: 50%;
+    height: 10vh;
+    background-color: #f0d9b5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+}
+
+.table .divblack {
+    width: 50%;
+    height: 10vh;
+    background-color: #b58863;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+}
+
+.table {
+    border: 5px solid black;
+    padding: 10px;
+}
+
+.numbers {
+    margin-right: 10px;
+}
+
+.letters {
+    margin-top: 10px;
+}
